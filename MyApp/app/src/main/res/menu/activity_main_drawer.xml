@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/england"
+            android:title="Англия" />
+
+        <item
+            android:id="@+id/spain"
+            android:title="Испания" />
+        <item
+            android:id="@+id/germany"
+            android:title="Германия" />
+        <item
+            android:id="@+id/france"
+            android:title="Франция" />
+        <item
+            android:id="@+id/italy"
+            android:title="Италия" />
+        <item
+            android:id="@+id/russia"
+            android:title="Россия" />
+        <item
+            android:id="@+id/portugal"
+            android:title="Португалия" />
+        <item
+            android:id="@+id/holland"
+            android:title="Голландия" />
+        <item
+            android:id="@+id/ukraine"
+            android:title="Украина" />
+        <item
+            android:id="@+id/turkey"
+            android:title="Турция" />
+    </group>
+
+
+</menu>
